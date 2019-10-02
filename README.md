@@ -1,6 +1,5 @@
-##Data plotting using Chart JS:
+# Welcome to the graphing-data-with-js wiki!
 
 Clone the repository, run `live-server` and observe the Global Temperature Average.
 
-
-![Data Plotted](https://raw.githubusercontent.com/sahil9001/graphing-data-with-js/image.png)
+![Data Plotted](https://github.com/sahil9001/graphing-data-with-js/blob/master/image.png)
